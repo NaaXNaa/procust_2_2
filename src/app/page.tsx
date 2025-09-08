@@ -39,17 +39,17 @@ export default function ProductSpecificationPage() {
 
               <div>
                 <div className="text-sm font-medium text-gray-500 mb-1">Nomor Sertifikat</div>
-                <div className="text-sm text-black">054/GIS-SS/Rev-00/V/2024</div>
+                <div className="text-sm text-black">054/GIS-SS/Rev-00/IX/2024</div>
               </div>
 
               <div>
                 <div className="text-sm font-medium text-gray-500 mb-1">Tanggal Terbit Sertifikat</div>
-                <div className="text-sm text-black">22 May 2024</div>
+                <div className="text-sm text-black">12 September 2024</div>
               </div>
 
               <div>
                 <div className="text-sm font-medium text-gray-500 mb-1">Tanggal Berakhir Sertifikat</div>
-                <div className="text-sm text-black">21 May 2028</div>
+                <div className="text-sm text-black">11 September 2028</div>
               </div>
 
               <div>
