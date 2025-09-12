@@ -14,12 +14,12 @@ export default function ProductSpecificationPage() {
             <div className="space-y-6">
               <div>
                 <div className="text-sm font-medium text-gray-500 mb-1">Nama Produk</div>
-                <div className="text-sm text-black">Bata beton (paving block)</div>
+                <div className="text-sm text-black">Beton Struktural (Beton Pracetak)</div>
               </div>
 
               <div>
                 <div className="text-sm font-medium text-gray-500 mb-1">Jenis Produk</div>
-                <div className="text-sm text-black">Paving blok</div>
+                <div className="text-sm text-black">Beton Pracetak</div>
               </div>
 
               <div>
@@ -29,17 +29,17 @@ export default function ProductSpecificationPage() {
 
               <div>
                 <div className="text-sm font-medium text-gray-500 mb-1">Merk</div>
-                <div className="text-sm text-black">NUGRAHA BETON</div>
+                <div className="text-sm text-black">NBI</div>
               </div>
 
               <div>
                 <div className="text-sm font-medium text-gray-500 mb-1">Nomor Penerbitan</div>
-                <div className="text-sm text-black">-</div>
+                <div className="text-sm text-black">054/GIS-S5/Rev-00/IX/2024</div>
               </div>
 
               <div>
                 <div className="text-sm font-medium text-gray-500 mb-1">Nomor Sertifikat</div>
-                <div className="text-sm text-black">054/GIS-SS/Rev-00/IX/2024</div>
+                <div className="text-sm text-black">-</div>
               </div>
 
               <div>
@@ -60,15 +60,15 @@ export default function ProductSpecificationPage() {
               <div>
                 <div className="text-sm font-medium text-gray-500 mb-1">SNI</div>
                 <div className="text-sm text-black">
-                  <div>1. SNI 03-0691-1996</div>
-                  <div>Bata beton (paving block)</div>
+                  <div>1. SNI 6880:2016</div>
+                  <div>Beton Struktural (Beton Pracetak)</div>
                 </div>
               </div>
 
               <div>
                 <div className="text-sm font-medium text-gray-500 mb-1">Tipe Produk</div>
                 <div className="text-sm text-black">
-                  <div>1. paving block</div>
+                  <div>1. Beton Pracetak</div>
                 </div>
               </div>
 
@@ -76,10 +76,9 @@ export default function ProductSpecificationPage() {
                 <div className="text-sm font-medium text-gray-500 mb-1">Pabrik</div>
                 <div className="text-sm text-black">
                   <div>CV NUGRAHA BETON INDONESIA</div>
-                  <div>
-                    JALAN RAYA MENGANTI SIDOWUNGU NOMOR 30, Desa/Kelurahan Sidowungu, Kec. Menganti, Kab. Gresik,
-                    Provinsi Jawa Timur
-                  </div>
+                  <div>Jl. Raya Menganti Sidowungu No 30,</div>
+                  <div>Desa/Kelurahan  Sidowungu</div>
+                  <div>Kec. Menganti, Kab. Gresik, Jawa Timur.</div>
                 </div>
               </div>
             </div>
